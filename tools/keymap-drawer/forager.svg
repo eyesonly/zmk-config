@@ -501,8 +501,8 @@ use.phosphor\:regular\/control {
 </g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="616" y="84" width="28" height="28" class="combo"/>
-<a href="#MSE">
-<text x="630" y="98" class="combo tap layer-activator">MSE</text>
+<a href="#MSE2">
+<text x="630" y="98" class="combo tap layer-activator">MSE2</text>
 </a><text x="630" y="110" class="combo hold">toggle</text>
 </g>
 <g class="combo combopos-7">
@@ -996,8 +996,8 @@ use.phosphor\:regular\/control {
 </g>
 </g>
 </g>
-<g transform="translate(30, 1618)" class="layer-MSE">
-<text x="0" y="30" class="label" id="MSE">MSE:</text>
+<g transform="translate(30, 1618)" class="layer-MSE2">
+<text x="0" y="30" class="label" id="MSE2">MSE2:</text>
 <g transform="translate(0, 99)">
 <g transform="translate(30, 67)" class="key keypos-0">
 <rect rx="6" ry="6" x="-28" y="-28" width="56" height="56" class="key"/>
