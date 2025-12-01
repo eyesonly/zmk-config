@@ -1,6 +1,5 @@
 #include "hardware_layouts/34-keys.h"
 #include <dt-bindings/zmk/pointing.h>
-#include "keymap_italian.h"
 #include "includes/base.dtsi"
 
 
